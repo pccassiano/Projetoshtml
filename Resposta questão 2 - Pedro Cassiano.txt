@@ -1,0 +1,3 @@
+2 Qual a diferença entre paginas dinamicas e páginas estaticas, exemplifique
+
+A diferença entre uma pagina estatica e pagina dinamica esta mais por questões de atualização e dinamismo de comunicação da pagina, uma pagina geralmente não tem tantas atualizações no seus conteudo e sistema em si é mais estaticos e sofre poucas atualizações no meio comunicação e na programação visual e paginas dinamicas pode sofrer atualizações constantes e ser mais dinamica o meio de comunicação. Exemplo uma pagina de comunicação de marketing de uma empresa tem seu conteudo postado de forma de pagina estatica e não sofrendo tanta alteração do usuario. Enquanto uma pagina como facebook sofre diversas alterações e formas de comunicações com outros sistemas.

@@ -1,0 +1,35 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title> Cliente </title>
+<link rel="stylesheet" href="estilo.css" />
+</head>
+<h1>Cliente</h1>
+<h3> preencha os campos abaixo para cadastrar um novo cliente</h3>
+<body>
+	<form  method="post" action="grava.php" class="pedro">
+	Nome:
+	<input type="text" id="txtNome" placeholder="Entre com o seu nome completo" maxlength="50" size="50" />
+	<br/>
+	
+	Email:
+	<input type="email" id="em" placeholder="Entre com o seu Email" maxlength="50" size="50" ><br />
+	
+	Senha:
+	<input type="password" id="txtSenha" placeholder="Informe sua senha" maxlength="20" size="25" />
+	<br/>
+	
+	Genero:
+	<input type="radio" id="mat" name="per"/> Feminino 
+	<input type="radio" id="not" name="per"/> Masculino	<br />
+	Genero:
+	<select id="grupo">
+		<option> Grupo A </option>
+		<option> Grupo B </option>
+		<option> Grupo C </option>
+	</select><br /><br />
+	
+	<input type="button" id="btl" value="Cadastrar"  /><br/>
+	</form>
+</body>
+</html>

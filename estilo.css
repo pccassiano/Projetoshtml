@@ -1,0 +1,28 @@
+/* Seletor por tag */
+body{
+	background-color:black;
+	color: white;
+	font-family: times new roman;	
+}
+
+/* seletor por id */
+#btl {
+	background-color: lime;
+	color: white;
+	border: solid 2px white;
+	width: 110px;
+	border-radius: 10px;
+}
+/* seletor por classe/apelido */
+.pedro {
+	width: 50%;
+	margin-left: 25%;	
+	background-color: blue;
+	border: solid 2px white;
+	padding: 10px;
+}
+
+
+
+
+	

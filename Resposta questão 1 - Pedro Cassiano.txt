@@ -1,0 +1,3 @@
+1 Quais As Motivações para a implementação de um sistema baseado em Web? 
+
+As motivações são que sistema web permite facilitar a comunicação entre todos as pessoas e empresas , garante que os dados do sistema pode ser atualizado e implementado de forma segura, e alguns casos pode ajudar a reduzir custo da empresa. Mas a maior motivação é permite que o usuario possa utilizar e acessar o sistema de forma segura e por qualquer equipamento que tiver ou empresa fornecer e apenas na dependencia de um computador com navegador.
