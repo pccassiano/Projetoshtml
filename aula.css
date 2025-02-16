@@ -1,0 +1,20 @@
+     #teste {width:200px;
+             height:200px;
+             background-color:silver;
+             border:3px dashed;
+             float:left;
+            }
+         
+
+     #teste1 {width:200px;
+              height:200px;
+              background-color:rgb(255,0,34);
+              border:3px dashed;
+              float:right;
+             }
+        
+           
+      body {background-color:rgb(225,0,226);
+           }
+       
+
